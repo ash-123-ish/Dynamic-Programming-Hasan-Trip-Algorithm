@@ -26,10 +26,15 @@ Output one number rounded to 6 digits after floating point, the maximum possible
 
 # Example
 Sample Input
+
 3
+
 0 0 1
+
 3 1 1
+
 6 0 9
+
 
 Sample Ouptut
 
