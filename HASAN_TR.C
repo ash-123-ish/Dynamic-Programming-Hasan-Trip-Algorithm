@@ -5,7 +5,7 @@
 #define M 10007
 void main()
 {
-int m,n;
+int n;
 int x[100],y[100],f[100];
 
 int testcase,i,j;
