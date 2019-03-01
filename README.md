@@ -1,5 +1,5 @@
  # Dynamic-Programming
- hasan trip prolem
+ hasan trip problem
  
  # Problem:
  Hasan has finally finished his final exams and he decided to go in a trip among cities in Syria.
