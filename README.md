@@ -25,7 +25,7 @@ Next N lines contains three integers each, i-th line contains coordinates of i-t
 Output one number rounded to 6 digits after floating point, the maximum possible happiness Hasan can get.
 
 # Example
-Smaple Input
+Sample Input
 3
 0 0 1
 3 1 1
