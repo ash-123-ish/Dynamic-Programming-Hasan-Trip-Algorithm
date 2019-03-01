@@ -1,2 +1,2 @@
-# Dynamic-Programming-Hasan-Trip-Algorithm
+# Dynamic-Programming
 in this we solve various dynamic programs
